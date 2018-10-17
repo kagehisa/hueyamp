@@ -1,0 +1,52 @@
+Info: Checking netlist symbol footprint "C1:/5BC6DBAC:Capacitor_THT:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
+Info: Checking netlist symbol footprint "C2:/5BC6DC40:Capacitor_THT:CP_Radial_D12.5mm_P5.00mm".
+
+Info: Checking netlist symbol footprint "T1:/5BC6D668:MJE340:TO126".
+
+Info: Checking netlist symbol footprint "Q1:/5BC6D830:Package_TO_SOT_THT:TO-92_Inline".
+
+Info: Checking netlist symbol footprint "R2:/5BC6D9FA:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Checking netlist symbol footprint "R1:/5BC6D9B1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "T1:/5BC6D668" pad "3" net name from "" to "Net-(Q1-Pad1)".
+
+Changing footprint "T1:/5BC6D668" pad "2" net name from "" to "VCC".
+
+Changing footprint "T1:/5BC6D668" pad "1" net name from "" to "Net-(Q1-Pad2)".
+
+Adding new symbol "T1:/5BC6D668" footprint "MJE340:TO126".
+
+Changing footprint "R2:/5BC6D9FA" pad "1" net name from "" to "Net-(Q1-Pad2)".
+
+Changing footprint "R2:/5BC6D9FA" pad "2" net name from "" to "GND".
+
+Adding new symbol "R2:/5BC6D9FA" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "R1:/5BC6D9B1" pad "2" net name from "" to "Net-(Q1-Pad1)".
+
+Changing footprint "R1:/5BC6D9B1" pad "1" net name from "" to "VCC".
+
+Adding new symbol "R1:/5BC6D9B1" footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changing footprint "Q1:/5BC6D830" pad "1" net name from "" to "Net-(Q1-Pad1)".
+
+Changing footprint "Q1:/5BC6D830" pad "3" net name from "" to "GND".
+
+Changing footprint "Q1:/5BC6D830" pad "2" net name from "" to "Net-(Q1-Pad2)".
+
+Adding new symbol "Q1:/5BC6D830" footprint "Package_TO_SOT_THT:TO-92_Inline".
+
+Changing footprint "C2:/5BC6DC40" pad "2" net name from "" to "GND".
+
+Changing footprint "C2:/5BC6DC40" pad "1" net name from "" to "VCC".
+
+Adding new symbol "C2:/5BC6DC40" footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm".
+
+Changing footprint "C1:/5BC6DBAC" pad "2" net name from "" to "GND".
+
+Changing footprint "C1:/5BC6DBAC" pad "1" net name from "" to "VCC".
+
+Adding new symbol "C1:/5BC6DBAC" footprint "Capacitor_THT:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2".
+
